@@ -23,7 +23,7 @@ pip install numpy pandas scikit-learn jupyter
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/vikastomar0010/movie-recommender-system.git
 ```
 
 2. Navigate to the project directory:
@@ -59,9 +59,6 @@ The notebook outputs:
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Inspiration for this project comes from various tutorials and research on recommender systems.
